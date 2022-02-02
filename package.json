@@ -1,0 +1,16 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Booreda123.github.io/todoList/",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
